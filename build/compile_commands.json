@@ -1,0 +1,92 @@
+[
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/main.cpp.obj -c C:/lab5/main.cpp",
+  "file": "C:/lab5/main.cpp",
+  "output": "CMakeFiles/final.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/player.cpp.obj -c C:/lab5/player.cpp",
+  "file": "C:/lab5/player.cpp",
+  "output": "CMakeFiles/final.dir/player.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/playerMovement.cpp.obj -c C:/lab5/playerMovement.cpp",
+  "file": "C:/lab5/playerMovement.cpp",
+  "output": "CMakeFiles/final.dir/playerMovement.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/cell.cpp.obj -c C:/lab5/cell.cpp",
+  "file": "C:/lab5/cell.cpp",
+  "output": "CMakeFiles/final.dir/cell.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/field.cpp.obj -c C:/lab5/field.cpp",
+  "file": "C:/lab5/field.cpp",
+  "output": "CMakeFiles/final.dir/field.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/goodEvent.cpp.obj -c C:/lab5/goodEvent.cpp",
+  "file": "C:/lab5/goodEvent.cpp",
+  "output": "CMakeFiles/final.dir/goodEvent.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/badEvent.cpp.obj -c C:/lab5/badEvent.cpp",
+  "file": "C:/lab5/badEvent.cpp",
+  "output": "CMakeFiles/final.dir/badEvent.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/teleportEvent.cpp.obj -c C:/lab5/teleportEvent.cpp",
+  "file": "C:/lab5/teleportEvent.cpp",
+  "output": "CMakeFiles/final.dir/teleportEvent.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/makeLevel.cpp.obj -c C:/lab5/makeLevel.cpp",
+  "file": "C:/lab5/makeLevel.cpp",
+  "output": "CMakeFiles/final.dir/makeLevel.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/game.cpp.obj -c C:/lab5/game.cpp",
+  "file": "C:/lab5/game.cpp",
+  "output": "CMakeFiles/final.dir/game.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/control.cpp.obj -c C:/lab5/control.cpp",
+  "file": "C:/lab5/control.cpp",
+  "output": "CMakeFiles/final.dir/control.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/fileReader.cpp.obj -c C:/lab5/fileReader.cpp",
+  "file": "C:/lab5/fileReader.cpp",
+  "output": "CMakeFiles/final.dir/fileReader.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/reader.cpp.obj -c C:/lab5/reader.cpp",
+  "file": "C:/lab5/reader.cpp",
+  "output": "CMakeFiles/final.dir/reader.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/tracker.cpp.obj -c C:/lab5/tracker.cpp",
+  "file": "C:/lab5/tracker.cpp",
+  "output": "CMakeFiles/final.dir/tracker.cpp.obj"
+},
+{
+  "directory": "C:/lab5/build",
+  "command": "C:/Users/shche/gcc/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/final.dir/draw.cpp.obj -c C:/lab5/draw.cpp",
+  "file": "C:/lab5/draw.cpp",
+  "output": "CMakeFiles/final.dir/draw.cpp.obj"
+}
+]

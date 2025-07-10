@@ -1,0 +1,10 @@
+^C:\USERS\SHCHE\ONEDRIVE\ДОКУМЕНТЫ\УЧЁБА\ООП\LAB5\BUILD\CMAKEFILES\C9EDB3D3AE07403FF3D0A189530042D9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/shche/OneDrive/Документы/учёба/ООП/lab5 -BC:/Users/shche/OneDrive/Документы/учёба/ООП/lab5/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/shche/OneDrive/Документы/учёба/ООП/lab5/build/MyProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

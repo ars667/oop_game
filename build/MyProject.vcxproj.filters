@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\playerMovement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\cell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\field.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\goodEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\badEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\teleportEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\makeLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\fileReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\reader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shche\OneDrive\Документы\учёба\ООП\lab5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{222CDB6E-734A-3927-B3D1-86E71013FF4E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
